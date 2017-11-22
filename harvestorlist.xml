@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
+     <ContractorCode Code="100000">
+      <ContractorName>मनो </ContractorName>
+    </ContractorCode>
     <ContractorCode Code="72697">
       <ContractorName>१६-१७ वरघुडे मारुती रंगनाथ</ContractorName>
     </ContractorCode>
