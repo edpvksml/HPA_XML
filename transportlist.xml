@@ -6,4 +6,10 @@
       <VehicleNo>MH-04 5459</VehicleNo>
     </ContractorCode>
   </VechicleType>
+  <VechicleType type="Tractor">
+    <ContractorCode Code="2010">
+      <ContractorName>मनोज टिळेकर</ContractorName>
+      <VehicleNo>MH-42-H-8385</VehicleNo>
+    </ContractorCode>
+  </VechicleType>
 </ContractorDetails>
