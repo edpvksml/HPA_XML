@@ -36,6 +36,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01/02/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9650">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7961</GrowerCode>
+    <GrowerName>शिंदे तुकाराम दामोधर</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>5</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1002</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8274">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>4690</GrowerCode>
@@ -468,6 +486,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01/01/2017</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9496">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>31228</GrowerCode>
+    <GrowerName>काकडे मनोहर लक्ष्मण</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>254</VillageCode>
+    <VillageName>पिंपळगाव तफेर् चाकण</VillageName>
+    <serveNo>654</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1003</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8782">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11741</GrowerCode>
@@ -881,6 +917,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9607">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39533</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1002</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/07/2016</PlantationDate>
   </PlotList>
   <PlotList plotNo="9092">
     <ProgramNo>1</ProgramNo>
@@ -1818,6 +1872,60 @@
     <Plotend>N</Plotend>
     <PlantationDate>01/06/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9594">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7748</GrowerCode>
+    <GrowerName>आरगडे सोमनाथ कांताराम</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo>254</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9621">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35082</GrowerCode>
+    <GrowerName>नरवडे नवनाथ विठ्ठल</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9608">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23459</GrowerCode>
+    <GrowerName>भंडारे अशोक एकनाथ</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1003</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/07/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="3976">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>15086</GrowerCode>
@@ -2034,6 +2142,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01/11/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9580">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13676</GrowerCode>
+    <GrowerName>सावंत अरुण सावळेराम</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo>366565</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1002</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/11/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="4141">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22181</GrowerCode>
@@ -2223,6 +2349,42 @@
     <VillageCode>31</VillageCode>
     <VillageName>वढु बुद्रुक</VillageName>
     <serveNo>21</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1003</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9441">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39462</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1003</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9535">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7744</GrowerCode>
+    <GrowerName>भंडारे खंडु ज्ञानेश्वर</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo>6985</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>को.86032</CaneVarietyName>
     <CaneCode>1003</CaneCode>
@@ -2862,6 +3024,42 @@
     <Plotend>N</Plotend>
     <PlantationDate>05/07/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9550">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>17143</GrowerCode>
+    <GrowerName>शिवले पंढरीनाथ ज्ञानेश्वर</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9558">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39511</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>वढु बुद्रुक</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05/07/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8202">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13619</GrowerCode>
@@ -3018,6 +3216,42 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>को.86032</CaneVarietyName>
     <CaneCode>1002</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9585">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9864</GrowerCode>
+    <GrowerName>पवऴे संजय सोपानराव</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>वढु खुर्द</VillageName>
+    <serveNo>6</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9586">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16758</GrowerCode>
+    <GrowerName>काकडे दशरथ दादु</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>वढु खुर्द</VillageName>
+    <serveNo>254</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
     <CaneType />
     <CanegrowerType>सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
@@ -3213,6 +3447,24 @@
     <VillageCode>32</VillageCode>
     <VillageName>वढु खुर्द</VillageName>
     <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1003</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9514">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21498</GrowerCode>
+    <GrowerName>गोलांडे काळुराम सहादू</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>वढु खुर्द</VillageName>
+    <serveNo>5422</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>को.86032</CaneVarietyName>
     <CaneCode>1003</CaneCode>
@@ -3906,6 +4158,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>02/07/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9646">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23741</GrowerCode>
+    <GrowerName>गव्हाणे पंढरीनाथ काळुराम</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>34</VillageCode>
+    <VillageName>कोरेगाव भिमा</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1002</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8492">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>38946</GrowerCode>
@@ -4554,6 +4824,60 @@
     <Plotend>N</Plotend>
     <PlantationDate>01/07/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9597">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30113</GrowerCode>
+    <GrowerName>गव्हाणे सुमन अंकुश</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <serveNo>2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9613">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1958</GrowerCode>
+    <GrowerName>गव्हाणे लता संजय</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <serveNo>56</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9649">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3413</GrowerCode>
+    <GrowerName>गव्हाणे विकास शामराव</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <serveNo>254</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/07/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="3520">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3460</GrowerCode>
@@ -4925,6 +5249,24 @@
     <serveNo>6</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9571">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33955</GrowerCode>
+    <GrowerName>गव्हाणे सुनिल पंढरीनाथ</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <serveNo>546465</serveNo>
+    <CaneVariety>8</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
     <CaneCode>1004</CaneCode>
     <CaneType />
     <CanegrowerType>सभासद</CanegrowerType>
@@ -5458,6 +5800,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39190</GrowerCode>
     <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>36</VillageCode>
+    <VillageName>फुलगाव</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9560">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8219</GrowerCode>
+    <GrowerName>साकोरे बाळासाहेब गणपत</GrowerName>
     <GatCode>3</GatCode>
     <GatName>कोरेगाव भिमा</GatName>
     <VillageCode>36</VillageCode>
@@ -6210,6 +6570,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>02/07/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9633">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>29099</GrowerCode>
+    <GrowerName>शिवले बाळकृष्ण काळुराम</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>37</VillageCode>
+    <VillageName>तुऴापुर</VillageName>
+    <serveNo>254</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1002</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9439">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39457</GrowerCode>
@@ -6894,6 +7272,60 @@
     <Plotend>N</Plotend>
     <PlantationDate>01/06/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9470">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8107</GrowerCode>
+    <GrowerName>वर्पे पंाडुरंग खंडु</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9592">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39513</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>254</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9593">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39513</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>254</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01/06/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8789">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8130</GrowerCode>
@@ -7488,6 +7920,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>02/07/2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="9447">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39465</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo />
+    <CaneVariety>3</CaneVariety>
+    <CaneVarietyName>फुले 0265</CaneVarietyName>
+    <CaneCode>1003</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02/07/2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8652">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8111</GrowerCode>
@@ -7875,6 +8325,42 @@
     <VillageCode>38</VillageCode>
     <VillageName>मरकळ</VillageName>
     <serveNo>55</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9512">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39491</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>64565</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>1004</CaneCode>
+    <CaneType />
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05/07/2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9556">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39513</GrowerCode>
+    <GrowerName />
+    <GatCode>3</GatCode>
+    <GatName>कोरेगाव भिमा</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo />
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>को.86032</CaneVarietyName>
     <CaneCode>1004</CaneCode>
