@@ -12,4 +12,10 @@
     <rstart>10001</rstart>
     <rend>15000</rend>
   </imeicode>
+  <imeicode imei="359475073010119">
+    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073010119.xml</url>
+    <version>1</version>
+    <rstart>15001</rstart>
+    <rend>20000</rend>
+  </imeicode>
 </devices>
