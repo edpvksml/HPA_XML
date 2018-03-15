@@ -6,6 +6,12 @@
     <rstart>30001</rstart>
     <rend>35000</rend>
   </imeicode>
+  <imeicode imei="359475073322365">
+    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073322365.xml</url>
+    <version>1</version>
+    <rstart>35001</rstart>
+    <rend>40000</rend>
+  </imeicode>
   <imeicode imei="359475073032030">
     <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073032030.xml</url>
     <version>1</version>
