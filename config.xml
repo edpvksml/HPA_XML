@@ -18,6 +18,12 @@
     <rstart>1</rstart>
     <rend>15000</rend>
   </imeicode>
+  <imeicode imei="359475073027279">
+    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073027279.xml</url>
+    <version>1</version>
+    <rstart>45001</rstart>
+    <rend>50000</rend>
+  </imeicode>
   <imeicode imei="359475073011240">
     <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073011240.xml</url>
     <version>1</version>
