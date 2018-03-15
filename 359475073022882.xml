@@ -36416,6 +36416,54 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="11568">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>28500</GrowerCode>
+    <GrowerName>जगताप मनोहर निवृत्ती</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <serveNo>66565</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="11569">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30433</GrowerCode>
+    <GrowerName>ढमढेरे सुभाष विठ्ठल</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <serveNo>64656</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="11571">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>24814</GrowerCode>
+    <GrowerName>भंडारे महेंद्र सर्जेराव</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>14</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <serveNo>65656</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>को.86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="11428">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>2599</GrowerCode>
