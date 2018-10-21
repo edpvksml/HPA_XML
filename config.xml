@@ -54,6 +54,12 @@
     <rstart>40001</rstart>
     <rend>45000</rend>
   </imeicode>
+  <imeicode imei="356029082494468">
+    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/356029082494468.xml</url>
+    <version>1</version>
+    <rstart>50000</rstart>
+    <rend>60000</rend>
+  </imeicode>
   <imeicode imei="861101035061732">
     <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/861101035061732.xml</url>
     <version>1</version>
@@ -77,11 +83,5 @@
     <version>1</version>
     <rstart>20001</rstart>
     <rend>25000</rend>
-  </imeicode>
-  <imeicode imei="35609082494468">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/35609082494468.xml</url>
-    <version>1</version>
-    <rstart>99999</rstart>
-    <rend>999999</rend>
   </imeicode>
 </devices>
