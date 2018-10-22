@@ -1,87 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <devices>
-  <imeicode imei="359475073012941">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073012941.xml</url>
-    <version>1</version>
-    <rstart>30001</rstart>
-    <rend>35000</rend>
-  </imeicode>
-  <imeicode imei="359475073322365">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073322365.xml</url>
-    <version>1</version>
-    <rstart>35001</rstart>
-    <rend>40000</rend>
-  </imeicode>
-  <imeicode imei="359475073032030">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073032030.xml</url>
-    <version>1</version>
-    <rstart>1</rstart>
-    <rend>15000</rend>
-  </imeicode>
-  <imeicode imei="359475073027279">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073027279.xml</url>
-    <version>1</version>
-    <rstart>45001</rstart>
-    <rend>50000</rend>
-  </imeicode>
-  <imeicode imei="353490069682595">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/353490069682595.xml</url>
-    <version>1</version>
-    <rstart>55000</rstart>
-    <rend>60000</rend>
-  </imeicode>
-  <imeicode imei="861101035061732">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/861101035061732.xml</url>
-    <version>1</version>
-    <rstart>77777</rstart>
-    <rend>88888</rend>
-  </imeicode>
-  <imeicode imei="359475073011240">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073011240.xml</url>
-    <version>1</version>
-    <rstart>10001</rstart>
-    <rend>15000</rend>
-  </imeicode>
-  <imeicode imei="359475073304405">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073304405.xml</url>
-    <version>1</version>
-    <rstart>50001</rstart>
-    <rend>55000</rend>
-  </imeicode>
-  <imeicode imei="359475073022882">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073022882.xml</url>
-    <version>1</version>
-    <rstart>40001</rstart>
-    <rend>45000</rend>
-  </imeicode>
   <imeicode imei="356029082494468">
     <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/356029082494468.xml</url>
     <version>1</version>
-    <rstart>50000</rstart>
-    <rend>60000</rend>
+    <rstart>1001</rstart>
+    <rend>2000</rend>
   </imeicode>
   <imeicode imei="861101035061732">
     <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/861101035061732.xml</url>
     <version>1</version>
-    <rstart>80000</rstart>
-    <rend>90000</rend>
-  </imeicode>
-  <imeicode imei="359475072577969">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475072577969.xml</url>
-    <version>1</version>
-    <rstart>25001</rstart>
-    <rend>30000</rend>
-  </imeicode>
-  <imeicode imei="359475073010119">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073010119.xml</url>
-    <version>1</version>
-    <rstart>15001</rstart>
-    <rend>20000</rend>
-  </imeicode>
-  <imeicode imei="359475073030422">
-    <url>https://raw.githubusercontent.com/edpvksml/HPA_XML/master/359475073030422.xml</url>
-    <version>1</version>
-    <rstart>20001</rstart>
-    <rend>25000</rend>
+    <rstart>1</rstart>
+    <rend>1000</rend>
   </imeicode>
 </devices>
